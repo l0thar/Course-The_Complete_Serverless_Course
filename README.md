@@ -3,7 +3,7 @@ This repo contains the code for the A Cloud Guru Course: The Complete Serverless
 The course can be found at [https://acloud.guru/learn/the-complete-serverless-course](https://acloud.guru/learn/the-complete-serverless-course)
 
 
-## Sections
+## Chapters
 
 [Section 2 - FaaS, development and best practices code](./Chapter_04) - Code samples from the FaaS, development and best practices section
 
