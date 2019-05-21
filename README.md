@@ -5,15 +5,15 @@ The course can be found at [https://acloud.guru/learn/the-complete-serverless-co
 
 ## Sections
 
-[Section 2 - FaaS, development and best practices code](./section-4) - Code samples from the FaaS, development and best practices section
+[Section 2 - FaaS, development and best practices code](./Chapter_04) - Code samples from the FaaS, development and best practices section
 
-[Section 4 - Platform Providers (AWS) section code](./section-4) - Code samples and starter templates from the Platform providers - AWS section
+[Section 4 - Platform Providers (AWS) section code](./Chapter_04) - Code samples and starter templates from the Platform providers - AWS section
 
-[Section 5 - Platform Providers (Azure) section code](./section-5) - Code samples and starter templates from the Platform providers - Azure section
+[Section 5 - Platform Providers (Azure) section code](./Chapter_05) - Code samples and starter templates from the Platform providers - Azure section
 
-[Section 6 - Platform Providers (GCP) section code](./section-6) - Code samples and starter templates from the Platform providers - GCP section
+[Section 6 - Platform Providers (GCP) section code](./Chapter_06) - Code samples and starter templates from the Platform providers - GCP section
 
-[Section 12 - Continuing the Journey resources](./section-12) - Helpful resource links
+[Section 12 - Continuing the Journey resources](./Chapter_07) - Helpful resource links
 
 [Projects](./projects) - Project instructions and solutions to the Practical Serverless section
 
