@@ -5,7 +5,7 @@ The course can be found at [https://acloud.guru/learn/the-complete-serverless-co
 
 ## Chapters
 
-[Chapter 2 - FaaS, Development and Best Practices](./Chapter_04) - Code samples
+[Chapter 2 - FaaS, Development and Best Practices](./Chapter_02) - Resources
 
 [Chapter 4 - Platform Providers: AWS](./Chapter_04) - Code samples and starter templates for AWS
 
